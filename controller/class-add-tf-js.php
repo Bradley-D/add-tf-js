@@ -41,9 +41,9 @@ class Add_TF_JS {
 	 *
 	 * @since 1.0.0
 	 */
-	// public function add_tf_js_controller_admin() {
-	// 	require_once 'public/class-controller-admin.php';
-	// }
+	public function add_tf_js_controller_admin() {
+		require_once 'public/class-controller-admin.php';
+	}
 
 }
 

@@ -30,9 +30,29 @@ class Controller_Admin {
 	 *
 	 * @since 1.0.0
 	 */
-	public function add_tf_js_admin_activate() {
+	public function add_tf_js_admin_activate() {}
 
-	}
+	/**
+	 * Add metabox to page type.
+	 *
+	 * @since 1.0.0
+	 */
+	public function add_tf_js_add_metabox_page() {}
+
+	/**
+	 * Callback for metabox function.
+	 *
+	 * @since 1.0.0
+	 */
+	public function my_meta_box_callback() {}
+
+	/**
+	 * Saves metabox value on publish/update.
+	 *
+	 * @since 1.0.0
+	 */
+	public function add_tf_js_metabox_save() {}
+
 }
 
 /**
@@ -40,4 +60,4 @@ class Controller_Admin {
  *
  * @since 1.0.0
  */
-$controller_a dmin = new Controller_Admin();
+$controller_admin = new Controller_Admin();

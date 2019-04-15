@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Add T.F JS
-Plugin URI:
-Description: Easily add the JavaScript for Trailfork widgets on any page.
+Plugin URI: https://github.com/Bradley-D/add-tf-js/
+Description: Adds the required Trailforks JavaScript to the footer on any page.
 Version: 1.0.0
 Author: Bradley Davis
 Author URI: https://bradley-davis.com
@@ -14,7 +14,7 @@ WC tested up to: 3.4.5
 @author		Bradley Davis
 @package	Add_TF_JS
 @since		1.0
-Add T.F JavaScript allows you to add Trailforks widgets to any page without having to manually add the JavaScript.
+Add T.F JavaScript allows you to Adds the required Trailforks JavaScript to the footer on any page.
 Copyright (C) 2014
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
